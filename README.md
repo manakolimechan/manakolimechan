@@ -1,16 +1,37 @@
-### Hi there 👋
+# Manako Lime Chan
 
-<!--
-**manakolimechan/manakolimechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](profile.jpg)
 
-Here are some ideas to get you started:
+🌱 Creative Artist | Virtual World Explorer | Enthusiastic Programmer | Linux Lover 🌍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hello there! I'm Manako Lime Chan, a passionate creative artist with a love for exploring virtual worlds and creating innovative programming projects. With a heart that beats for Linux and a mind that thrives on coding, I'm here to make a colorful mark in the digital realm.
+
+## Portfolio
+
+- 🎨 [Digital Art Showcase](#)
+- 🚀 [Virtual Adventures](#)
+- 💻 [Coding Projects](#)
+
+## Skills
+
+- 🎨 Digital Art and Illustration
+- 💻 Programming: Python, JavaScript
+- 🌐 Web Development: HTML, CSS, React
+- 📷 Designer and Photo Editing
+- ⚙️ Linux System Administration
+
+## Contact Me
+
+📧 Email: manakolimechan@gmail.com
+📱 Instagram: [@ManakoLime](https://www.instagram.com/manakolimechan)
+📖 Facebook: [Manako Lime Chan](https://www.facebook.com/profile.php?id=61550327999256)
+
+## Open Source Contributions
+
+- 🌟 Nothing
+
+---
+
+Let's connect and create something amazing together! 🚀
