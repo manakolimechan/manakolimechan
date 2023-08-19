@@ -1,6 +1,6 @@
 # Manako Lime Chan
 
-![Profile Banner](profile.jpg)
+![Profile Banner](profile.png)
 
 🌱 Creative Artist | Virtual World Explorer | Enthusiastic Programmer | Linux Lover 🌍💻
 
